@@ -1,0 +1,1 @@
+# tanda "" berarti untuk string (karakter) tidak bisa untuk aritmatika
